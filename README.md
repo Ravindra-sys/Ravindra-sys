@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ravindra-sys
+- 👋 Hi, I’m Ravindra meena 
 - 👀 I’m interested in code 
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on web development and DSA and java developer 
